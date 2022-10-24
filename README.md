@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a full-stack web developer and software engineer with about 6 years of experience working with software.
+I'm a full-stack web developer and software engineer with about 4 years of experience working with software.
 
 ### :bar_chart: &nbsp;Stack
 
